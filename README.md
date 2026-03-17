@@ -5,7 +5,6 @@ A simple .NET console app demonstrating random-order list behavior (placeholder 
 ## Project structure
 
 - `PandellRandomOrderList/` - main app
-- `PandellRandomOrderList.Tests/` - xUnit test project
 
 ## Prerequisites
 
@@ -16,4 +15,10 @@ A simple .NET console app demonstrating random-order list behavior (placeholder 
 
 ```bash
 dotnet build
+```
+
+## Run
+
+```bash
+dotnet run
 ```
