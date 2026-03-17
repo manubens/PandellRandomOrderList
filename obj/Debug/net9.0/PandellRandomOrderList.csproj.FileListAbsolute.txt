@@ -1,0 +1,14 @@
+C:\Source\dotNET_projects\PandellRandomOrderList\bin\Debug\net9.0\PandellRandomOrderList.exe
+C:\Source\dotNET_projects\PandellRandomOrderList\bin\Debug\net9.0\PandellRandomOrderList.deps.json
+C:\Source\dotNET_projects\PandellRandomOrderList\bin\Debug\net9.0\PandellRandomOrderList.runtimeconfig.json
+C:\Source\dotNET_projects\PandellRandomOrderList\bin\Debug\net9.0\PandellRandomOrderList.dll
+C:\Source\dotNET_projects\PandellRandomOrderList\bin\Debug\net9.0\PandellRandomOrderList.pdb
+C:\Source\dotNET_projects\PandellRandomOrderList\obj\Debug\net9.0\PandellRandomOrderList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\dotNET_projects\PandellRandomOrderList\obj\Debug\net9.0\PandellRandomOrderList.AssemblyInfoInputs.cache
+C:\Source\dotNET_projects\PandellRandomOrderList\obj\Debug\net9.0\PandellRandomOrderList.AssemblyInfo.cs
+C:\Source\dotNET_projects\PandellRandomOrderList\obj\Debug\net9.0\PandellRandomOrderList.csproj.CoreCompileInputs.cache
+C:\Source\dotNET_projects\PandellRandomOrderList\obj\Debug\net9.0\PandellRandomOrderList.dll
+C:\Source\dotNET_projects\PandellRandomOrderList\obj\Debug\net9.0\refint\PandellRandomOrderList.dll
+C:\Source\dotNET_projects\PandellRandomOrderList\obj\Debug\net9.0\PandellRandomOrderList.pdb
+C:\Source\dotNET_projects\PandellRandomOrderList\obj\Debug\net9.0\PandellRandomOrderList.genruntimeconfig.cache
+C:\Source\dotNET_projects\PandellRandomOrderList\obj\Debug\net9.0\ref\PandellRandomOrderList.dll
