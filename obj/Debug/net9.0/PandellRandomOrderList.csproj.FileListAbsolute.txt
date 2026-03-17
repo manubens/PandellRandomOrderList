@@ -12,3 +12,4 @@ C:\Source\dotNET_projects\PandellRandomOrderList\obj\Debug\net9.0\refint\Pandell
 C:\Source\dotNET_projects\PandellRandomOrderList\obj\Debug\net9.0\PandellRandomOrderList.pdb
 C:\Source\dotNET_projects\PandellRandomOrderList\obj\Debug\net9.0\PandellRandomOrderList.genruntimeconfig.cache
 C:\Source\dotNET_projects\PandellRandomOrderList\obj\Debug\net9.0\ref\PandellRandomOrderList.dll
+C:\Source\dotNET_projects\PandellRandomOrderList\obj\Debug\net9.0\PandellRandomOrderList.sourcelink.json

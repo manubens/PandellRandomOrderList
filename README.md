@@ -19,6 +19,14 @@ dotnet build
 
 ## Run
 
+To generate the first 20 values by default
+
 ```bash
 dotnet run
+```
+
+To generate all 10,000 values
+
+```bash
+dotnet run --dump
 ```

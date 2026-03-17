@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PandellRandomOrderList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d151cd133229aa7d6d7935e9408f4804377ecd52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e61d37b45cc0d99c7af5decfb34726e62bdeab69")]
 [assembly: System.Reflection.AssemblyProductAttribute("PandellRandomOrderList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PandellRandomOrderList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
